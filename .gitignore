@@ -1,6 +1,9 @@
 # expo
 .expo/
 
+# vscode
+.vscode/
+
 # jest cache
 .jest/
 
